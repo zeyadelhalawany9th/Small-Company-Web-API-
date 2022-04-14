@@ -35,3 +35,9 @@ C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.
 C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
 C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\frontend\webapi\angular.json
+C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\frontend\webapi\package-lock.json
+C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\frontend\webapi\package.json
+C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\frontend\webapi\tsconfig.app.json
+C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\frontend\webapi\tsconfig.json
+C:\Users\Zeyad\source\repos\WebAPI\bin\Debug\net6.0\frontend\webapi\tsconfig.spec.json

@@ -1,4 +1,6 @@
 using Newtonsoft.Json.Serialization;
+using System.IO;
+using Microsoft.Extensions.FileProviders;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,5 +43,11 @@ if (app.Environment.IsDevelopment())
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseStaticFiles(new StaticFileOptions 
+{ 
+    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(),"Photos")),
+    RequestPath = "/Photos"
+});
 
 app.Run();
